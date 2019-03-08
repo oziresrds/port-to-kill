@@ -1,0 +1,28 @@
+{
+  "name": "port-to-kill",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ozires R.S.O.F",
+    "email": "oziresrds@yahoo.com.br"
+  },
+  "description": "It kill process that is running in an specific port",
+  "readmeFilename": "README.md",
+  "keywords": ["kill-port", "mac", "linux", "windows", "node", "javascript", "kill-port-mac", "kill-port-linux", "kill-port-windows-server", "kill-port-windows"],
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^4.3.1",
+    "mocha": "^3.4.2",
+    "should": "^11.2.1"
+  },
+  "scripts": {
+    "test": "gulp tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oziresrds/port-to-kill.git"
+  }
+}
